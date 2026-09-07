@@ -1,0 +1,8 @@
+google-genai>=0.1.1
+google-cloud-storage>=2.14.0
+pillow>=10.0.0
+pillow-heif>=0.15.0
+reverse-geocoder>=1.5.1
+requests>=2.31.0
+pydantic>=2.6.0
+python-dotenv>=1.0.0
